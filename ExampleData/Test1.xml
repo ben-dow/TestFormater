@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Test>
+    <FileInfo>
+
+    </FileInfo>
+    <TestInfo>
+
+    </TestInfo>
+    <Questions>
+        <MultipleChoice>
+            <QuestionText>What is 1 + 1?</QuestionText>
+            <Choices>
+                <Choice>1</Choice>
+                <Choice>2</Choice>
+                <Choice>3</Choice>
+                <Choice>4</Choice>
+            </Choices>
+            <Answer>2</Answer>
+        </MultipleChoice>
+
+        <MultipleChoice>
+            <QuestionText>What is the capital of the United States?</QuestionText>
+            <Choices>
+                <Choice outputOrder="1">D.C</Choice>
+                <Choice outputOrder="3">New York</Choice>
+                <Choice outputOrder="2">Pittsburg</Choice>
+                <Choice outputOrder="4">LA</Choice>
+            </Choices>
+            <Answer>D.C</Answer>
+        </MultipleChoice>
+
+    </Questions>
+</Test>
